@@ -1,6 +1,6 @@
 Configured following: https://realpython.com/vim-and-python-a-match-made-in-heaven/
 
-
+![gvim screenshot](https://raw.githubusercontent.com/lluisgomez/vimrc/master/Screenshot_2020-02-09.png)
 
 - Compiled VIM with:
 
